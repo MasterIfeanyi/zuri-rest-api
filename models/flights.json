@@ -1,0 +1,14 @@
+[
+    {
+        "title": "flight to canada",
+        "time": "1pm",
+        "price": 26000,
+        "date": "26-06-2022"
+    },
+    {
+        "title": "flight to Australia",
+        "time": "2pm",
+        "price": 56000,
+        "date": "16-12-2022"
+    }
+]
