@@ -8,7 +8,7 @@ const app = express();
 
 const PORT = 3500;
 
-// cros origin resource sharing
+// cross origin resource sharing
 app.use(cors({
   origin: "*"
 }));
@@ -20,7 +20,7 @@ app.use(json());
 
 app.use("/flights", routes);
 
-const port = process.env.PORT || 3000;
+const port = 3000;
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
